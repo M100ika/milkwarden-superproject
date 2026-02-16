@@ -1,0 +1,12 @@
+[submodule "integrated"]
+	path = integrated
+	url = /home/maxat/Projects/Agrarka/Milkwarden/subrepos/milkwarden-integrated
+[submodule "server"]
+	path = server
+	url = /home/maxat/Projects/Agrarka/Milkwarden/subrepos/milkwarden-server
+[submodule "modeling3d"]
+	path = modeling3d
+	url = /home/maxat/Projects/Agrarka/Milkwarden/subrepos/milkwarden-modeling3d
+[submodule "raspberry"]
+	path = raspberry
+	url = /home/maxat/Projects/Agrarka/Milkwarden/subrepos/milkwarden-raspberry
