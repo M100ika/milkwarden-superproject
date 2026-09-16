@@ -14,3 +14,7 @@
 	path = raspberry
 	url = git@github.com:M100ika/milkwarden-raspberry.git
 	branch = main
+[submodule "article"]
+	path = article
+	url = git@github.com:M100ika/milkwarden-artictle.git
+	branch = main
